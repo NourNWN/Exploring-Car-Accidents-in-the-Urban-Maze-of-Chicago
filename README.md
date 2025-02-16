@@ -4,4 +4,7 @@ Our mission is to conduct an exploratory analysis of car accidents in the city o
 
 Through this analysis, we seek to highlight the importance of public safety, traffic road planning, and law enforcement. By understanding the complex network of car accidents, we can identify high-risk areas and common factors that contribute to accidents. With this knowledge, efforts can be directed towards improving road safety measures, infrastructure planning, and traffic management to create a safer and more harmonious transportation environment.
 
-Dataset: https://drive.google.com/file/d/1s0Q7Jk_C3q-aOfp7tJGuYdKEFByMcDmb/view
+Datasets:
+Traffic Crashes, Streets Center Lines, Police Beats Boundaries, CBD Boundary
+
+https://drive.google.com/file/d/1s0Q7Jk_C3q-aOfp7tJGuYdKEFByMcDmb/view
